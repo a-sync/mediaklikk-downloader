@@ -1,5 +1,5 @@
 # mediaklikk-downloader [![npm (scoped)](https://img.shields.io/npm/v/mediaklikk-downloader.svg)](https://www.npmjs.com/package/mediaklikk-downloader)  
-A videók letöltését teszi lehetővé a mediaklikk.hu oldalról.  
+A videók letöltését teszi lehetővé mediaklikk.hu és www.m4sport.hu oldalakról.
 ![mediaklikk-downloader](https://user-images.githubusercontent.com/14183614/47254935-e779b300-d468-11e8-9e84-6cda4becd9b8.gif)
 
 ## Indítás parancssori dialógussal
