@@ -1,4 +1,4 @@
-### FIGYELEM: yt-dlp (youtube-dl fork) támogatja a mediaklikk tartalmakat! Ez az alkalmazás feleslegessé vált és a fejlsztése nem folytatódik.  
+### FIGYELEM: yt-dlp (youtube-dl fork) támogatja a mediaklikk tartalmakat! Ez az alkalmazás feleslegessé vált és a fejlesztése nem folytatódik.  
 
 # mediaklikk-downloader [![npm (scoped)](https://img.shields.io/npm/v/mediaklikk-downloader.svg)](https://www.npmjs.com/package/mediaklikk-downloader)  
 A videók letöltését teszi lehetővé mediaklikk.hu és m4sport.hu oldalakról.
